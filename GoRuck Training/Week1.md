@@ -2,10 +2,13 @@
 
 ## AM
 
-- [ ] 5x5 Workout B
-  - [ ] 5 x 5 Squat
-  - [ ] 5 x 5 Overhead Press
-  - [ ] 1 x 5 Deadlift
+- [X] 5x5 Workout B
+  - [X] 5 x 5 Squat
+    - 105#
+  - [X] 5 x 5 Overhead Press
+    - 55#
+  - [X] 1 x 5 Deadlift
+    - 115#
 
 ## PM
 
