@@ -9,7 +9,7 @@
 
 ## PM
 
-- [ ] 1 Mile Ruck
+- [x] 1 Mile Ruck
 
 # Tuesday
 
