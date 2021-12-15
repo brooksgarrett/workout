@@ -16,10 +16,10 @@
 ## AM
 
 *TWO times through*
-- [ ] 20 x 8-count Man Makers
-- [ ] 20 x Sit-ups
-- [ ] 20 x Thrusters
-- [ ] 20 x 4-count Flutter Kicks
+- [x] 20 x 8-count Man Makers (only got 10)
+- [x] 20 x Sit-ups
+- [x] 20 x Thrusters
+- [x] 20 x 4-count Flutter Kicks
 
 # Wednesday
 
