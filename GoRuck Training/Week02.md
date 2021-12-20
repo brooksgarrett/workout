@@ -1,13 +1,13 @@
 # Monday
 
 ## AM
-- [ ] 5x5 Workout A
-  - [ ] 5 x 5 Squat
-  - [ ] 5 x 5 Bench Press
-  - [ ] 5 x 5 Barbell Row
+- [x] 5x5 Workout A
+  - [x] 5 x 5 Squat
+  - [x] 5 x 5 Bench Press
+  - [x] 5 x 5 Barbell Row
 
 ## PM
-- [ ] 2 Mile Ruck
+- [x] 2 Mile Ruck
 
 # Tuesday
 
